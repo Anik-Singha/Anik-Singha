@@ -66,8 +66,7 @@
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: (Add your link here)
-- 💬 Open an issue or discussion in this repo
+- 💼 LinkedIn: https://www.linkedin.com/in/anik-singha2001/
 
 ---
 
