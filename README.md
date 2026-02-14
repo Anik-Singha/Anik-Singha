@@ -11,9 +11,9 @@
   <a href="https://github.com/Anik-Singha?tab=followers">
     <img src="https://img.shields.io/github/followers/Anik-Singha?label=Followers&style=flat" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/Anik-Singha?tab=repositories">
-    <img src="https://img.shields.io/github/repo-size/Anik-Singha/Anik-Singha?label=Profile%20Repo&style=flat" />
-  </a>
+  <a href="https://github.com/Anik-Singha">
+  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-blue?style=flat&logo=googlemaps" />
+</a>
 </p>
 
 ---
