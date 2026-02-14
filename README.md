@@ -1,14 +1,7 @@
-<!--
-How to use:
-1) Create a public repo named exactly "Anik-Singha"
-2) Put this README.md in it (default branch)
-3) Optionally enable Issues in that repo so people can contact you there
--->
-
-<h1 align="center">Hi, I'm Anik Singha</h1>
+<h1 align="center">Hi, I'm Anik Singha 👋</h1>
 
 <p align="center">
-  Developer • Open‑source enthusiast • Lifelong learner
+  Aspiring Data Engineer • SQL Server • Data Warehousing • ETL
 </p>
 
 <p align="center">
@@ -16,31 +9,49 @@ How to use:
     <img src="https://komarev.com/ghpvc/?username=Anik-Singha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
   <a href="https://github.com/Anik-Singha?tab=followers">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Anik-Singha&query=%24.followers&label=Followers&logo=github&style=flat" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/Anik-Singha?label=Followers&style=flat" alt="GitHub followers" />
   </a>
   <a href="https://github.com/Anik-Singha?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Anik-Singha&query=%24.public_repos&label=Public%20Repos&logo=github&style=flat" alt="Public repos" />
+    <img src="https://img.shields.io/github/repo-size/Anik-Singha/Anik-Singha?label=Profile%20Repo&style=flat" />
   </a>
 </p>
 
 ---
 
-### About me
+## 👨‍💻 About Me
 
-- I like building clean, reliable software and learning in public.
-- I care about developer experience, performance, and good documentation.
-- Open to collaborating on impactful open‑source and interesting side projects.
-- Always exploring new tools, patterns, and ways to make code more maintainable.
-
-<!-- Optional: add a one‑liner about your focus area (backend, frontend, ML, cloud, etc.) -->
+- 🎓 Computer Engineering Graduate (2023)
+- 📊 Focused on building a strong career in Data Engineering
+- 🏗 Hands-on experience with layered Data Warehouse architecture (Bronze, Silver, Gold)
+- 🛠 Skilled in SQL Server, T-SQL, data modeling, and ETL processes
+- 🐍 Using Python for data transformation and automation
+- 📚 Learning every day through real projects and practice
 
 ---
 
-### GitHub at a glance
+## 🚀 What I’m Up To
+
+- 🔹 Building end-to-end Data Warehouse projects using SQL Server  
+- 🔹 Practicing advanced SQL (window functions, optimization, indexing)  
+- 🔹 Strengthening ETL design and data modeling concepts  
+- 🔹 Improving Python for data engineering workflows  
+
+---
+
+## 🛠 Tech Stack
+
+- **Database:** SQL Server  
+- **Languages:** T-SQL, Python  
+- **Concepts:** ETL, Data Modeling, Star Schema, Normalization  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📊 GitHub at a Glance
 
 <p align="center">
-  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Anik-Singha&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" />
-  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anik-Singha&layout=compact&langs_count=10&theme=transparent" />
+  <img height="165" src="https://github-readme-stats-lovat-one-pcg57w9j96.vercel.app/api?username=Anik-Singha&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-lovat-one-pcg57w9j96.vercel.app/api/top-langs/?username=Anik-Singha&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
@@ -51,40 +62,13 @@ How to use:
   <img alt="Contribution Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Anik-Singha&theme=github-compact" />
 </p>
 
-<!--
-Tip: Pin your favorite repositories from your GitHub profile ("Customize your pins").
-Those appear above this README on your profile.
--->
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: (Add your link here)
+- 💬 Open an issue or discussion in this repo
 
 ---
 
-### What I’m up to
-
-- 🔭 Currently: building, refactoring, and shipping small improvements every day
-- 🌱 Learning: tools and patterns that improve reliability and DX
-- 🤝 Open to: collaborating on OSS, code reviews, and pairing on tricky bugs
-
-<!-- Replace or expand with specific projects/tech once you're ready -->
-
----
-
-### Get in touch
-
-- 💬 Start a discussion or open an issue in this repo: https://github.com/Anik-Singha/Anik-Singha/issues
-<!-- - 📫 Email: add-your-email-here -->
-<!-- - 🌐 Website/Portfolio: https://your-website-here -->
-<!-- - 💼 LinkedIn: https://www.linkedin.com/in/your-handle -->
-
----
-
-<details>
-  <summary>Achievements & trophies (fun)</summary>
-  <br />
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Anik-Singha&theme=flat&no-frame=true&no-bg=true&margin-w=12" />
-</details>
-
-<!--
-Notes:
-- The language card reflects what's in your public repos and may not represent your full skill set.
-- If any image fails due to rate limits, it will come back automatically.
--->
+⭐ *Learning by building real-world data projects.*
